@@ -1,0 +1,11 @@
+# Instalação:
+#   pip install -r requirements.txt
+#
+# No Google Colab, rode no início do notebook:
+#   !pip install -r requirements.txt
+
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
